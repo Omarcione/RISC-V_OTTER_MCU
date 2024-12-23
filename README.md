@@ -34,7 +34,7 @@ Copy code
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/riscv-otter.git
+   git clone https://github.com/omarcione/riscv-otter.git
    cd riscv-otter
 Open the project in Xilinx Vivado:
 
