@@ -26,10 +26,10 @@ Copy code
 ## Getting Started
 
 ### Prerequisites
-- **Hardware:** FPGA development board (tested with [your FPGA board model])
+- **Hardware:** FPGA development board (tested with Digilent BASYS 3)
 - **Software:**
   - Xilinx Vivado for synthesis and simulation
-  - Assembly tools for RISC-V programming ([specific assembler or emulator if applicable])
+  - Assembly tools for RISC-V programming (I used RARS)
 
 ### Setup Instructions
 1. Clone this repository:
